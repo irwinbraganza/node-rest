@@ -1,0 +1,27 @@
+{
+  "name": "corona-test",
+  "version": "1.0.0",
+  "description": "Kodework Node JS test project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "keywords": [
+    "node.js",
+    "api",
+    "mongo",
+    "REST",
+    "MVC",
+    "express",
+  ],
+  "author": "Irwin Braganza",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.17.3"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.0.16"
+  }
+}
